@@ -8,7 +8,7 @@
     					<div><a href="#"><img src="/footware/images/devansh.jpg"></a></div>
     				</div>
     				<div class="col-sm-6 col-lg-3">
-    					<div class="footer-logo"><img src="/footware/images/phone-icon.png"><span class="map_text">(91) 9372105075</span></div>
+    					<div class="footer-logo"><img src="/footware/images/phone-icon.png"><span class="map_text">(91) 9373421623</span></div>
     				</div>
     				<div class="col-sm-6 col-lg-3">
     					<div class="footer-logo"><img src="/footware/images/email-icon.png"><span class="map_text">devansh@gmail.com</span></div>
@@ -52,7 +52,7 @@
     	</div>
     </div>
 	<!-- section footer end -->
-	<div class="copyright"><%=LocalDate.now().getYear() %> All Rights Reserved By Sahil & Avishkar</div>
+	<div class="copyright"><%=LocalDate.now().getYear() %> All Rights Reserved By Narayan Shinde</div>
 
 
       <!-- Javascript files-->
